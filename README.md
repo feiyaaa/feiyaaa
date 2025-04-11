@@ -1,5 +1,5 @@
 - Hi, I’m Fia! ❤︎
-- I'm an 18 year old Biochem student from the Netherlands.
-- My personal OS is Linux Mint, but I often use Ubuntu for building.
+- I'm an 18 year old Biochem/CompSci student from Denmark.
+- My personal OS is Linux Mint, but I'm trying to get into NixOS as well.
 - I mainly work in Python, Rust and C#.
-- Most of my contributions are hopefully going to be on Monika After Story or MAS Submods, but I'd love to help in whatever way I can!
+- Most of my contributions are probably going to be related to GNU/Linux Distros and Libreware.
